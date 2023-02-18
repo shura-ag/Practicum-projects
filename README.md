@@ -7,3 +7,6 @@ This repository consists of the projects that were made during Practicum Bootcam
                        find out if a customer’s marital status and number of children has an impact on whether they will default on a loan.
 - `project_3_car_sell_erlikhman_final` - This is analysis of selling the cars through  the internet site. The Purpose is to determine the factors which influence 
                                           to the price of the car and the correlation between different factors and the price of the car.
+- `integrated_project_1_erlikhman_final` - This is the analysis for the on-line store, which sells video games all over the world. Purposes of the analysis 
+                                            are to determine the factors which make the games more successful to spot potential big winners and plan advertising 
+                                            campaigns.
